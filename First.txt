@@ -1,1 +1,2 @@
-My first file af
+My first file.
+Line 2.
